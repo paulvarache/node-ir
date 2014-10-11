@@ -1,0 +1,19 @@
+{
+  "name": "node-ir",
+  "version": "1.0.0",
+  "description": "Emits events when the Banana Pi's IR receiver is used",
+  "main": "node-ir.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paulvarache/node-ir"
+  },
+  "author": "Paul Varache",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulvarache/node-ir/issues"
+  },
+  "homepage": "https://github.com/paulvarache/node-ir"
+}

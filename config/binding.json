@@ -1,0 +1,47 @@
+{
+    "26": "ok",
+    "89": "power",
+    "5": "play",
+    "69": "config",
+    "85": "correct",
+    "82": {
+        "type": "number",
+        "value": 1
+    },
+    "80": {
+        "type": "number",
+        "value": 2
+    },
+    "16": {
+        "type": "number",
+        "value": 3
+    },
+    "86": {
+        "type": "number",
+        "value": 4
+    },
+    "84": {
+        "type": "number",
+        "value": 5
+    },
+    "20": {
+        "type": "number",
+        "value": 6
+    },
+    "78": {
+        "type": "number",
+        "value": 7
+    },
+    "76": {
+        "type": "number",
+        "value": 8
+    },
+    "12": {
+        "type": "number",
+        "value": 9
+    },
+    "15": {
+        "type": "number",
+        "value": 0
+    }
+}
