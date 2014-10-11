@@ -6,7 +6,7 @@ function IR (config) {
     events.EventEmitter.call(this);
     this.config = config || require('./config/binding.json');
     this.showAll = false;
-    this.ir_process = spawn(__dirname+'/lib/test', ['/dev/input/event0']);
+    this.ir_process = spawn(__dirname+'/lib/IR', ['/dev/input/event0']);
     this.ir_process.stdout.on('data', this.sendEvent.bind(this));
 }
 
