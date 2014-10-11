@@ -1,6 +1,6 @@
 {
   "name": "node-ir",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Emits events when the Banana Pi's IR receiver is used",
   "main": "node-ir.js",
   "scripts": {

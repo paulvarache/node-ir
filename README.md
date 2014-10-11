@@ -14,6 +14,9 @@ Just create a IR object and ask it to display all events
     var IR = require('node-ir');
     var ir = new IR();
     ir.displayEvents();
+    ir.on('key', function (code) {
+    	console.log(code);
+    });
 ```
 
 Start the script and watch the key number appearing on the console when you press it on your remote.
